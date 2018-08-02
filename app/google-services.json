@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "569739638153",
+    "firebase_url": "https://myapplication-9c93b.firebaseio.com",
+    "project_id": "myapplication-9c93b",
+    "storage_bucket": "myapplication-9c93b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569739638153:android:0f5d83a505520307",
+        "android_client_info": {
+          "package_name": "com.talentlist.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569739638153-m6ompvcfn8bq6uloegdktgbikngql732.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.talentlist.app",
+            "certificate_hash": "8d89bcf1d35ee119c1cedfc8756298b6069325b3"
+          }
+        },
+        {
+          "client_id": "569739638153-bleiaa1i4a66b4vcu8ocmmtibaqvjomd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yjINoC0B-t6zp7fk6Wbf5dvAT7lKvvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569739638153-bleiaa1i4a66b4vcu8ocmmtibaqvjomd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569739638153-2f0jjvnuo131hh0dhh3d5npubgjl3set.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrudul.talentlists"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569739638153:android:b9621b6c065484b6",
+        "android_client_info": {
+          "package_name": "com.webbions.textrecognization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569739638153-c87nav0s8otfh0q5cc0u5ir33p908l16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webbions.textrecognization",
+            "certificate_hash": "8d89bcf1d35ee119c1cedfc8756298b6069325b3"
+          }
+        },
+        {
+          "client_id": "569739638153-bleiaa1i4a66b4vcu8ocmmtibaqvjomd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yjINoC0B-t6zp7fk6Wbf5dvAT7lKvvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569739638153-bleiaa1i4a66b4vcu8ocmmtibaqvjomd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "569739638153-2f0jjvnuo131hh0dhh3d5npubgjl3set.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mrudul.talentlists"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
